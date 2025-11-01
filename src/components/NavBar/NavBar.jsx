@@ -3,7 +3,9 @@
 const NavBar = () => {
   return (
     <nav>
-      <p>Navbar contents will go here.</p>
+     <ul>
+        <li><Link to ='/sign-up'>Sign <Up></Up></Link></li>
+     </ul>
     </nav>
   );
 };
